@@ -5,7 +5,7 @@ System created using C++ and File handling concept.
 #basic working
 
 
-                           ################################################Analysis & Algorithm###############################################
+  ################################################Analysis & Algorithm###############################################
                            
 There are basically two roles in the system. first is customer and second is admin. The selection of role is done by the user. The key problem is to develop a system for ordering of food which works on either role. And the sub problems are the working of system with correspondence to the given role.  As there are some requirement and functionality that must be performed by the system. The   system must managed 10 restaurants 
 
@@ -23,9 +23,6 @@ The basic step which will be followed by user is the registration process, and i
         6	check out.
         7	final bill / order place.
         8	rate that restaurant.
-  
-
-
     #Tasks for Admin:
        If the user access as an admin, then the numbers of tasks he can perform with help of this system are: 
          1 Registration 
@@ -38,3 +35,4 @@ The basic step which will be followed by user is the registration process, and i
         8	Can Marked the status of any order and also can update it.
         9	Generate a sales report/Analysis Sheet (including rating, budget etc.).
         10 Can check bill.
+        #############################################   END #######################################3
