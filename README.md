@@ -12,7 +12,6 @@ There are basically two roles in the system. first is customer and second is adm
 #Basic Step:
 The basic step which will be followed by user is the registration process, and it will be observed in both case either the user is customer or admin but the criteria will be slightly different.
 
-
    #Task for Customers:
       If the user access as the customer, then there are following tasks that he can perform on the system.  
         1	Selection of restaurant
@@ -23,6 +22,7 @@ The basic step which will be followed by user is the registration process, and i
         6	check out.
         7	final bill / order place.
         8	rate that restaurant.
+        ####################################################################################################
     #Tasks for Admin:
        If the user access as an admin, then the numbers of tasks he can perform with help of this system are: 
          1 Registration 
