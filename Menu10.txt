@@ -1,0 +1,22 @@
+-----------------------------------------  Welcome to Haveli------------------------------------------------------------                       
+                   Dishes                                              
+ItemID    Items+Size                   Price(Rs.per)   Serving             Description
+0         Chicken-karahi                  900           Full             Sizzling-chicken-with-spices.
+1         Mattan-Krahi                    2200          1kg              with-Spices-and-masala.                 
+2         Chicken-Boneless-handi          800           Full             boneless-pieces-with-cream.
+3         Madrasi-Handi                   850           1kg              taste-of-madaaras.  
+4         Chicken-Herb-handi              850           Full             Served-with-taste-of-vegies. 
+5         Mutton-ran                      1200          Full             Roastd-with-spices.
+6         Mutton-Chops                    2250          Full             Served-with-chatni.
+7         Lahori-rahu                     2200          Full             Grilled.
+8         Fish-tikka                      1050          10pcs            Served-with-Chilli-Sauce.
+9         Anday-Chanay                    1400          Full             Served-with-traditional-taste.
+10        Murgh-Chanay                    500           Full             A-staple-in-Pakistani-cuisine
+11        Shahi-haressa                   1150          Full             Served-with-mint-sauces.
+12        Mutton-pilao                    750           Full             Served-with-salad-and-raita.
+13        Sprite-1.5L                     80              1              Cold-Drink
+14        CocaCola-1.5L                   80              1              Cold-Drink
+15        Fresh-lime                     350              1              Sprite-water-and-soda.
+
+
+

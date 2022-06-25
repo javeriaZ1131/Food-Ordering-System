@@ -1,0 +1,32 @@
+-----------------------------------------  Welcome to Options------------------------------------------------------------                       
+
+                   Dishes                                              
+ItemID    Items+Size                   Price(Rs.per)    Serving             Description
+0         Chicken-karahi                  900           Full           Desi-Chicken-with-special-traditional-spices
+1         Black-peper-chicken             800           Full           Chicken-Salan-with-Black-peper.                 
+2         Malai-Boti-Chicken              800           Full           chicken-Pieces-soaked-with-Malai.
+3         Mutton-karahi                   1180          Full           Chefs-Special-Prepared-in-Pure-Desi-Ghee.
+4         Mutton-Achari-handi             900           Full           Boneless-mutton-prepared-in-tomatoes-and-garlic-with-the-traditional-achar.
+5         Mutton-Chops                    1300          12-Pcs         Roasted-mutton-cooked-with-exotic-herbs-and-best-combination-of-spices.
+6         Chello-Kabab                    700           Half           Minced-Chicken-Kababs-deliciously-moist-and-flavourly-grilled. 
+7         Iranian-Mix-Platter             1200          Full           Combination-of-Chelo-Kabab,-Joojeh-Kabab,-Teka-Masti-and-Tabrizi-Mutton-Chops.
+8         Tbaraizi-mutton-chops           1400          Full           Baby-Spring-natural-mutton-chops-marinated-in-Tabrizi’s-Special-Spices.   
+9         Sweet-Corn-&-ChickenSoup        400           1Cup(per)      Minced-chicken-&-crushed-sweet-corn-cooked-in-chicken-broth.
+10        Hot-and-Corn-Soup(M)            499           1Cup(per)      Clear-chicken-soup-with-lemon-juice-&-green-chillies-garnished-with-crispy-rice.
+11        Hot-and-Corn-Soup(L)            1400          4person        Clear-chicken-soup-with-lemon-juice-&-green-chillies-garnished-with-crispy-rice.
+12        Simple-Chicken-Soup             599           1Cup(per)      Authentic-Szechuan-soup-with-chicken_prawns-&-Chinese-herbs.
+13        Chicken-Noodle-Soup             499           1Cup(per)      Mild-flavour-clear-soup-with-chicken-&-Chinese-noodles.
+14        Sprite(1.5L)                    80            1-Bottle       Cold-Drink
+15        CocaCola(1.5L)                  80            1-Bottle       Cold-Drink
+16        Fresh-lime                      350           1-Bottle       Sprite-and-soda-with-lemon.
+
+
+
+
+
+
+
+
+
+
+

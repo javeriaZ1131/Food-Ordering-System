@@ -1,0 +1,25 @@
+-----------------------------------------  Welcome to lahore Borast------------------------------------------------------------           
+                                  Dishes 
+                                             
+ItemID    Items+Size                  Price(Rs.per)     Serving            Description  
+0	 Chicken-karahi(S)		250             2person            Chicken-salan-with-traditional-Spiecs
+1        Chicken-karahi(M)              500             2person            Chicken-salan-with-traditional-Spiecs
+2        Sprite(1.5L)                   250             2person            Cold-Drink
+3        Coke(1.5L)                     250	        2person            Cold-Drink
+4        7-Up(1.5L)                     250             2person            Cold-Drink
+5        Pepsi(1.5L)                    250	        2person            Cold-Drink
+6	 bombay-Biryani			550		1per(plate)	   Indian-style-Briyani
+7	 Tandoori-chicken		850		2pieces		   Chicken-Salan-with-Tandoori-Roti
+8	 beef-Rice			650		2person	           Rice-with-Beef-----------------------------------------  Welcome to lahore Borast------------------------------------------------------------           
+                                  Dishes 
+                                             
+ItemID    Items+Size                  Price(Rs.per)     Serving            Description  
+0	Chicken-karahi(S)	 	250	 	2person	 	Chicken-salan-with-traditional-Spiecs
+1	Chicken-karahi(M)	 	500	 	2person	 	Chicken-salan-with-traditional-Spiecs
+2	Sprite(1.5L)	 	250	 	2person	 	Cold-Drink
+3	Coke(1.5L)	 	250	 	2person	 	Cold-Drink
+4	7-Up(1.5L)	 	500	 	2person	 	Cold-Drink
+5	Pepsi(1.5L)	 	250	 	2person	 	Cold-Drink
+6	bombay-Biryani	 	550	 	1per(plate)	 	Indian-style-Briyani
+7	Tandoori-chicken	 	850	 	2pieces	 	Chicken-Salan-with-Tandoori-Roti
+8	beef-Rice	 	650	 	2person	 	Rice-with-Beef

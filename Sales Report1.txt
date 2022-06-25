@@ -1,0 +1,4 @@
+Item Id	          items		     Amount		Price
+8		beef-Rice	        1		650
+1		Chicken-karahi(M)	1		500
+4		7-Up(1.5L)	        1		2502		Sprite(1.5L)	1		250

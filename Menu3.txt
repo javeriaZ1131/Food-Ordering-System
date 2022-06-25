@@ -1,0 +1,20 @@
+-----------------------------------------  Welcome to Turkish Restuarent------------------------------------------------------------      
+                          Dishes                                              
+
+ItemID    Items+Size                   Price(Rs.per)   Serving      Description
+0         Chicken-Wrap                   390           1person           Wraps
+1         Meat-Wrap                      490           1person           Wraps                       
+2         Chicken-seekh-kabab-wrap       490           1person           Wraps
+3         Turkish-Sikander-kebab         1350          Medium            kebab
+4         Roasted-Lamb-Kebab             980           Medium            kebab
+5         Spicy-Adana-Kebab              980           Medium            kebab
+6         Turkish-Adana-Kebab            1150          Medium            Kebab
+7         MeatBall-Casserole(chesses)    800           1person          Casserole
+8         Chicken-Casserole              600           1person          Casserole
+9        Lamb-Tikka-Lamb-Patta-Kebab     1500          Large            New-Arrival
+10       Salt-Crust-Fish-Beef-Sultan     1200          Medium           New-Arrival
+11       Special-Pasha-Soup              499           1person           Soup
+12       Turkish-lentil-Soup             399           1person           Soup
+13       Chicken-Soup                    399           1person           Soup
+14        Sprite(1.5L)                    80           1person           Cold-Drink
+15        CocaCola(1.5L)                  80           1person           Cold-Drink

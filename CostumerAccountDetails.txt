@@ -1,0 +1,8 @@
+CustomerNo	Password	IDCard	                Full-Name            Gender   	       Contact-No
+1	         2071	        09868-8754321	        Zahid-Amin	        m	       0301-2457974
+2		 3091	        35202-0986413           Sara-Khan	        f	       0301-8675874
+3		 5511		12392-0273513		Alex Batner	        f	       0303-7685744
+4		 1		1			Fulkner Stresser	m             0303-0985754
+
+
+5		2461		35201-34627892   	Kim Joen		f		0303-5671231

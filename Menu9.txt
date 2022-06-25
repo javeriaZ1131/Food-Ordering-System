@@ -1,0 +1,22 @@
+-----------------------------------------  Welcome to Brbeque Tonight------------------------------------------------------------                       
+                   Dishes                                              
+ItemID    Items+Size                   Price(Rs.per)   Serving                   Description
+0         Chicken-karahi                  900           Full           Sizzling-chicken-with-spices.
+1         Mattan-Krahi                    2200          1kg            with-Spices-and-masala.                 
+2         Malaio-Boti                     800           Full           Chicken-pieces-with-cream.
+3         Mutton-Boti                     1150          1kg            Served-with-fries.  
+4         Chicken-tikka-boti              850           Full           Served-with-taste-of-tikka. 
+5         BBQ-platter                     1200          Full           Bbb-Grilled.
+6         Mutton-Ribs                     2250          Full           Served-with-chatni.
+7         Mutton-legs                     2200          Full           marinated-grilled
+8         Chicken-Steak                   1050          10pcs          Served-with-Chilli-Sauce.
+9         Mutton-Steak                    1400          Full           Served-with-traditional-spices.
+10        Chiken-Corn-Soup                700           Full           A-staple-in-Pakistani-cuisine
+11        HotN-Sour-Soup                  750           Full           Clear-Chicken-Soup-With-Ginger-Lemon.
+12        Mulligatawny-Soup               750           Full           Served-with-bread-roll
+13        Sprite-1.5L                     80              1            Cold-Drink
+14        CocaCola-1.5L                   80              1            Cold-Drink
+15        Fresh-lime                     350              1           Sprite,water-and-soda.
+
+
+

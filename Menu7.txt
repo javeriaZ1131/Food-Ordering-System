@@ -1,0 +1,20 @@
+-----------------------------------------Welcome-to-Salt-n-pepper------------------------------------------------------------                                        Dishes
+                                              
+ItemID    Items+Size                   Price(Rs.per)   Serving                   Description
+0         Chicken-karahi                  900           Full                   Sizzling-chicken-with-spices.
+1         Makhni-Chicken                  990           Full                   with-almonds-aand-masala.                 
+2         MalaiBoti-Chicken               800            Full                  Chicken-pieces-with-cream.
+3         Pepper-Steak-Beaf               1450         300gms                  Served-with-baked-potato-vegetables-roll.  
+4         Pepper-Steak-Chicken            850          300gms                  Served-with-baked-potato-vegetables-roll. 
+5         Chicken-Manchurian              730           Full                   Boneless-chicken-stir-fried-with-flat-noodles-and-vegetables.
+6         Chicken-Chow-Mein               750           Half                   Served-with-egg-fried-rice.
+7         Crispy-SpringRolls              350            4pcs                  Served-with-Soya-Chilli-Sauce.
+8         ChineseChicken-Drumsticks       320            3pcs                  Served-with-Sweet-Chilli-Sauce.
+9         Chicken-Satay                   320           4pcs                   Served-with-Peanut-Sauce.
+10        HotCorn-Soup                    320           1Cup                   A-staple-in-Pakistani-Chinese-cuisine
+11        Thai-Chicken-Soup               330           1Cup                   Clear-Chicken-Soup-With-Ginger-Lemon-and-Green-Chillie
+12        Mulligatawny-Soup               390           1Cup                   Served-with-bread-roll
+13        Sprite(1.5L)                     80            1                     Cold-Drink.
+14        CocaCola(1.5L)                   80            1                     Cold-Drink.
+15        Fresh-lime                      350            1                     Sprite-water-and-soda.
+

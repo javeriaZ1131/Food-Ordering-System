@@ -1,0 +1,31 @@
+---------------------------------------Welcome-to-Yums-Chineses-and-Thai------------------------------------------------------------                       
+
+                   Dishes                                              
+ItemID    Items+Size                  Price(Rs.per)     Serving            Description
+0         Duck-in-Hot-Garlic-Sauce      1100            1person           Diced-duck-mix-vegetables-and-red-Thai-chilies-flavored-with-special-hot-garlic-sauce.
+1         Duck-in-BBQ-Sauce             1200            1person           Flavorsome-cubes-of-duck-with-Chinese-cabbage-flavored-with-Chinese-BBQ-sauce.           
+2         Mongolian-Duck                1500            1person           Delicately-cooked-cubes-of-duck-with-fresh-seasonal-vegetables-and-special-Mongolian-spices.
+3         Yum-Special-Fish(Special)      980            Full              Mouth-Watering-Crispy-Deep-Fried-Red-Snapper-Whole-Topped-With-Yum-Special-Sauce.
+4         Fish-With-Chillies             980            Full           Stir-Fried-Fish-Flavoured-With-Green-Chillies-and-Soya-Sauce.
+5         Szechuan-Spicy-Fish            800            Full           Red-snapper-fillet-cooked-in-spicy-szechuan-sauce.
+6         Stir-Fried-Squids              500            Half           Stir-Fried-Cubes-with-Crushed-Black-Beansand-ChoppedCapsicum-OnionTraditionalChineseSpices.
+7         Chilli-Crab                    600            Half           Wok-Cooked-Crab-Lightly-Tossed-With-Chinese-Spices-and-Traditional-Chilli-Paste.
+8         Lobster                        1400           Full           Szechuan-Hot-Garlic-Or-Black-Bean-Sauce.    
+9       Sweet-Corn-and-Chicken-Soup      400            1Cup(Per)      Minced-chicken-and-crushed-sweet-corn-cooked-in-chicken-broth.
+10       Chicken-Thai-Soup               499            1Cup(Per)      Clear-chicken-soup-with-lemon-juice-and-green-chillies-garnished-with-crispy-rice.
+11       Szechuan-Soup                   599            1Cup(Per)      Authentic-Szechuan-soup-with-chicken-prawns-and-Chinese-herbs.
+12       Chicken-Noodle-Soup             499            1Cup(Per)       Mild-flavour-clear-soup-with-chicken-and-Chinese-noodles.
+13        Sprite(1.5L)                    80             1              Cold-Drink
+14        CocaCola(1.5L)                  80             1              Cold-Drink
+15        Fresh-lime                     350             1              Sprite-with-water-and-soda.
+
+
+
+
+
+
+
+
+
+
+

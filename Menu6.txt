@@ -1,0 +1,31 @@
+-----------------------------------------  Welcome to Bundu Khan------------------------------------------------------------                       
+                  Dishes                                              
+ItemID    Items+Size                   Price(Rs.per)   Serving             Description
+0        Chicken-karahi                   900           Full               Sizzling-chicken-with-spices.
+1        Zafrani-Mutton-Leg               3200          Full               with-almonds-aand-masala.                 
+2        Malai-Boti-Chicken               800           Full               Chicken-pieces-with-cream.
+3        Chicken-Steam-Roast              990           Full               Roasted-with-sauces.       
+4        Chicken-Reshmi-Kabab             650           4pcs               kebab-marinate-in-cheses.
+5        ChickenCheese-Kastoori-Kabab     1050         12Pcs               Grilled.
+6        Chicken-Dhum-Seekh               950           Half               Grilled. 
+7        Finger-Fish                      1185          Full               Served-with-french-fries-and-Tartar-Sauce.
+8        Fish-cracker                     1185          Full               Served-with-french-fries-and-Tartar-Sauce.
+9        Potato-FriedFish                 1185          1Full              Served-with-french-fries-and-tartar-sauce.
+10       HotCorn-Soup(M)                  699           1cup(per)          Clear-chickensoup-with-lemon-juice-green-chillies.
+11       HotCorn-Soup(L)                  1300         1cup(per)           Clear-chickensoup-with-lemon-juice-green-chillies.
+12       Simple-Chicken-Soup              699           1Cup(per)          Soup-with-chicken.
+13       Bundu-Khan-Special-Soup          699           1Cup               Mild-flavour-clear-soup-with-chicken-vegeies.
+14       Sprite(1.5L)                     80            1                  COLD-Drink.
+15       CocaCola(1.5L)                   80            1                  COLD-Drink.  
+16       Fresh-lime                       350           1                  Sprite-water-and-soda.
+
+
+
+
+
+
+
+
+
+
+

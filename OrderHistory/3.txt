@@ -1,0 +1,12 @@
+MISO-SOUP			         2 		 400
+
+SALMON-SASHIMI			         2 		 1300
+
+Turkish-Sikander-kebab			 1 		 1350
+
+Turkish-Adana-Kebab			 1 		 1150
+
+Salt-Crust-Fish-Beef-Sultan	         1 		 1200
+
+Sprite(1.5L)			 1 		 250
+

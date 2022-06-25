@@ -1,0 +1,21 @@
+-----------------------------------------  Welcome to Tabaq------------------------------------------------------------                       
+                   Dishes                                              
+ItemID    Items+Size                   Price(Rs.per)   Serving                   Description
+0         Chicken-karahi                  900           Full           Sizzling-chicken-with-spices.
+1         Mattan-Krahi                    2200          1kg            with-almonds-aand-masala.                 
+2         MalaiBoti-Chicken               800           Full          Chicken-pieces-with-cream.
+3         Mutton-Kunah                    2250          1kg            Served-with-baked-potato-vegetables-roll.  
+4         Chicekn-Ginjer                  850           Full           Served-with-taste-of-ginjer. 
+5         Chicken-Jalfarazi               730           Full           Boneless-chicken-with-spices.
+6         Chicken-Achari-Handi            750           Full           Chicekn-with-spice-of-Achar.
+7         Grill-platter                   2200          Full           Mutton-Chops-Malai-Boti-Tikka-Boti-Kebab-rice
+8         Chicken-Drumsticks              1050          10pcs          Served-with-Chilli-Sauce.
+9         Chicken-tawa-masala             700           Full           Served-with-traditional-spices.
+10        Chiken-Corn-Soup                700           Full           A-staple-in-Pakistani-cuisine
+11        HotN-Sour-Soup                  750           Full           Clear-Chicken-Soup-With-Ginger-Lemon.
+12        Tabaq-Special-Soup              750           Full           Served-with-bread-roll
+13        Sprite-1.5L                     80              1            Cold-Drink 
+14        CocaCola-1.5L                   80              1            Cold-Drink 
+15        Fresh-lime                      350             1            Sprite-water-and-soda.
+
+
