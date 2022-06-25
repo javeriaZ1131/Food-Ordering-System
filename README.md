@@ -4,8 +4,7 @@ System created using C++ and File handling concept.
 
 #basic working
 
-
-  ################################################Analysis & Algorithm###############################################
+ ###################################Analysis & Algorithm#######################################
                            
 There are basically two roles in the system. first is customer and second is admin. The selection of role is done by the user. The key problem is to develop a system for ordering of food which works on either role. And the sub problems are the working of system with correspondence to the given role.  As there are some requirement and functionality that must be performed by the system. The   system must managed 10 restaurants 
 
