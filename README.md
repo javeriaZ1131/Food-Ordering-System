@@ -34,4 +34,4 @@ The basic step which will be followed by user is the registration process, and i
         8	Can Marked the status of any order and also can update it.
         9	Generate a sales report/Analysis Sheet (including rating, budget etc.).
         10 Can check bill.
-        #############################################   END #######################################3
+        #############################################   END #######################################
