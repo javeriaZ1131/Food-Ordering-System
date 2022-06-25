@@ -1,5 +1,5 @@
 # Food-Ordering-System
-System created using C++ and File handling concept.
+System created using C++ and File handling concept.The system is based on the idea of ordering food from variety of cuisines available on different resturants  following the total bill generation.  In addition to that there is also a delivery or pick up option according to the customer demands.
 
 
 #basic working
